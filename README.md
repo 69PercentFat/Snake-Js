@@ -12,7 +12,7 @@ Snake-Js is a simple implementation of the classic Snake game using HTML, CSS, a
 
 ## Demo
 
-You can play the game live at [Snake-Js](https://snakeeats.vercel.app).
+You can play the game live at [Snake-Js](</br>https://snakeeats.vercel.app).
 
 ![Snake-Js](demo.gif)
 
